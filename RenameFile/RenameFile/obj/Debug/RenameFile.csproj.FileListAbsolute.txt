@@ -1,0 +1,12 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\RenameFile\RenameFile\bin\Debug\RenameFile.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\RenameFile\RenameFile\bin\Debug\RenameFile.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\RenameFile\RenameFile\bin\Debug\RenameFile.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\RenameFile\RenameFile\obj\Debug\RenameFile.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\RenameFile\RenameFile\obj\Debug\RenameFile.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\RenameFile\RenameFile\obj\Debug\RenameFile.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\MyOwnCode\RenameFile\RenameFile\bin\Debug\RenameFile.exe.config
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\MyOwnCode\RenameFile\RenameFile\obj\Debug\RenameFile.exe
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\MyOwnCode\RenameFile\RenameFile\obj\Debug\RenameFile.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\MyOwnCode\RenameFile\RenameFile\bin\Debug\RenameFile.exe
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\MyOwnCode\RenameFile\RenameFile\bin\Debug\RenameFile.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\MyOwnCode\RenameFile\RenameFile\obj\Debug\RenameFile.csprojResolveAssemblyReference.cache
