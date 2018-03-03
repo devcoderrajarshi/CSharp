@@ -1,0 +1,6 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\string_pasting\string_pasting\bin\Debug\string_pasting.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\string_pasting\string_pasting\bin\Debug\string_pasting.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\string_pasting\string_pasting\bin\Debug\string_pasting.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\string_pasting\string_pasting\obj\Debug\string_pasting.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\string_pasting\string_pasting\obj\Debug\string_pasting.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\string_pasting\string_pasting\obj\Debug\string_pasting.pdb
