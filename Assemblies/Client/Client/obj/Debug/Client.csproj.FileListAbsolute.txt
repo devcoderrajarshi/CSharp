@@ -1,0 +1,16 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\bin\Debug\Client.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\bin\Debug\Client.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\bin\Debug\Client.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\bin\Debug\MyCodeLibrary.dll
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\bin\Debug\MyCodeLibrary.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\Client\Client\obj\Debug\Client.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\obj\Debug\Client.exe
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\obj\Debug\Client.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\bin\Debug\Client.exe
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\bin\Debug\Client.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\bin\Debug\MyCodeLibrary.dll
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\bin\Debug\MyCodeLibrary.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Assemblies\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\bin\Debug\AssembliesAndNamespaces.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\AssembliesAndNamespaces\AssembliesAndNamespaces\obj\Debug\AssembliesAndNamespaces.pdb

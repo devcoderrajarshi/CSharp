@@ -1,0 +1,9 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\Rajarshi\documents\visual studio 2015\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe
+C:\Users\Rajarshi\documents\visual studio 2015\Projects\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.pdb
+C:\Users\Rajarshi\documents\visual studio 2015\Projects\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.csprojResolveAssemblyReference.cache
+C:\Users\Rajarshi\documents\visual studio 2015\Projects\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+C:\Users\Rajarshi\documents\visual studio 2015\Projects\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Visual C#\WorkingWithCollections\WorkingWithCollections\bin\Debug\WorkingWithCollections.exe.config
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Visual C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.exe
+C:\Users\Rajarshi\Documents\Visual Studio 2015\Projects\Visual C#\WorkingWithCollections\WorkingWithCollections\obj\Debug\WorkingWithCollections.pdb

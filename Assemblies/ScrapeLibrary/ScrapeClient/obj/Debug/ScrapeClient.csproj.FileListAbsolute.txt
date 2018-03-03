@@ -1,0 +1,8 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeClient.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeClient.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeClient.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeLibrary.dll
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\bin\Debug\ScrapeLibrary.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\ScrapeLibrary\ScrapeClient\obj\Debug\ScrapeClient.pdb

@@ -1,0 +1,6 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\helperMethods\helperMethods\bin\Debug\helperMethods.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\helperMethods\helperMethods\bin\Debug\helperMethods.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\helperMethods\helperMethods\bin\Debug\helperMethods.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\helperMethods\helperMethods\obj\Debug\helperMethods.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\helperMethods\helperMethods\obj\Debug\helperMethods.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\helperMethods\helperMethods\obj\Debug\helperMethods.pdb

@@ -1,0 +1,6 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\For_iterations\For_iterations\bin\Debug\For_iterations.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\For_iterations\For_iterations\bin\Debug\For_iterations.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\For_iterations\For_iterations\bin\Debug\For_iterations.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\For_iterations\For_iterations\obj\Debug\For_iterations.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\For_iterations\For_iterations\obj\Debug\For_iterations.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\For_iterations\For_iterations\obj\Debug\For_iterations.pdb

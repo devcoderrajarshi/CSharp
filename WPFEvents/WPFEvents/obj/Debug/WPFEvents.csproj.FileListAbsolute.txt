@@ -1,0 +1,14 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\bin\Debug\WPFEvents.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\MainWindow.g.cs
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\App.g.cs
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents_MarkupCompile.lref
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\MainWindow.baml
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.g.resources
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.Properties.Resources.resources
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.csproj.GenerateResource.Cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\WPFEvents\WPFEvents\obj\Debug\WPFEvents.pdb

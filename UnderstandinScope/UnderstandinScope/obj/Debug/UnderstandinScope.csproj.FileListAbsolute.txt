@@ -1,0 +1,6 @@
+c:\users\rajarshi\documents\visual studio 2015\Projects\UnderstandinScope\UnderstandinScope\bin\Debug\UnderstandinScope.exe.config
+c:\users\rajarshi\documents\visual studio 2015\Projects\UnderstandinScope\UnderstandinScope\obj\Debug\UnderstandinScope.csprojResolveAssemblyReference.cache
+c:\users\rajarshi\documents\visual studio 2015\Projects\UnderstandinScope\UnderstandinScope\bin\Debug\UnderstandinScope.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\UnderstandinScope\UnderstandinScope\bin\Debug\UnderstandinScope.pdb
+c:\users\rajarshi\documents\visual studio 2015\Projects\UnderstandinScope\UnderstandinScope\obj\Debug\UnderstandinScope.exe
+c:\users\rajarshi\documents\visual studio 2015\Projects\UnderstandinScope\UnderstandinScope\obj\Debug\UnderstandinScope.pdb
